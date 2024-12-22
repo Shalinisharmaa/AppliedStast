@@ -1660,3 +1660,6 @@ for (i in 1:(k-1)) {
 average_misclassification_error_QDA <- mean(QDA_misclassification_errors)
 average_misclassification_error_QDA
 
+# Description
+This was a supervised and unsupervised dataset that was done in RStudio data analysis and analysis of how many are invasive and how many are non-invasive with the machine learning model.
+Library, technology and tools used: - R studio, removing outliers’, cross-validation , TSNE , hypertuning for model optimization
